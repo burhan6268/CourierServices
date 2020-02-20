@@ -9,7 +9,7 @@
 <html>
    <head>
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-      <title>ThankYou very much!</title>
+      <title>ThankYou!</title>
       <link rel="stylesheet" type="text/css" href="main.css">
    </head>
    <body>
