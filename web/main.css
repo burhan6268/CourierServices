@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+2019
+*/
+/* 
+    Created on : 28-May-2019, 2:53:50 PM
+    Author     : Burhanuddin
+*/
+.head
+{
+    color:Gold;
+}
+
+p
+{
+    background-color: rgba(100,211,150,0.8);
+}
+
+body
+{
+    background-image: url('tru.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    border: 5px solid yellow;
+    font-size: 1.5em;
+}
+ol
+{
+    border: 5px solid white;
+    background-color: rgba(100,211,150,0.8);
+    font-size:1.2em;
+    color:maroon;
+}
+.first-word {
+  font-size: 35px;
+  line-height: 70px;
+  color: gold;
+}
+
